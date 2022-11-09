@@ -16,7 +16,7 @@ local opts = {
     -- Same as youtube-dl --format FORMAT
     -- see https://github.com/ytdl-org/youtube-dl/blob/master/README.md#format-selection
     -- set to "current" to download the same quality that is currently playing
-    video_format = "best",
+    video_format = "-f best",
     recode_video = "",
 
     restrict_filenames = true,
