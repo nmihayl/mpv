@@ -1,6 +1,6 @@
 # My mpv config and scripts repository
 
-This repo contains my own mpv.conf and input.conf files, alongside scipts and extensions I use and have configured.
+This repo contains my own mpv.conf and input.conf files, alongside scipts and extensions I use and have configured. All scripts I use are credited down bellow.
 
 ## Used scripts
 
@@ -13,3 +13,5 @@ This repo contains my own mpv.conf and input.conf files, alongside scipts and ex
 - [mpv_geometry_freezer.lua](https://gist.github.com/TheAMM/5e07ad787dd95d76131b61840f403a79) by [TheAMM](https://github.com/TheAMM)
 
 - [delete_file](https://github.com/zenyd/mpv-scripts/blob/master/delete_file.lua) by [zenyd](https://github.com/zenyd)
+
+- [clean-playlist](https://github.com/samhippo/mpv-scripts/blob/master/clean-playlist.lua) by [samhippo](https://github.com/samhippo)
