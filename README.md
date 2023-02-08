@@ -15,3 +15,5 @@ This repo contains my own mpv.conf and input.conf files, alongside scipts and ex
 - [delete_file](https://github.com/zenyd/mpv-scripts/blob/master/delete_file.lua) by [zenyd](https://github.com/zenyd)
 
 - [clean-playlist](https://github.com/samhippo/mpv-scripts/blob/master/clean-playlist.lua) by [samhippo](https://github.com/samhippo)
+
+- [SmartCopyPaste_II](https://github.com/Eisa01/mpv-scripts#smartcopypaste_ii) by [Eisa01](https://github.com/Eisa01/)
