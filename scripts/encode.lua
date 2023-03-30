@@ -292,7 +292,7 @@ function set_timestamp(profile)
             only_active_tracks = false,
             preserve_filters = true,
             append_filter = "",
-            codec = "-sn -c:v libx265 -c:a libopus -af loudnorm=I=-24:LRA=7:TP=-2.0 -vtag hvc1",
+            codec = "-sn -c:v libx265 -af loudnorm=I=-24:LRA=7:TP=-2.0 -vtag hvc1",
             output_format = "$f_$n.mp4",
             output_directory = "",
             ffmpeg_command = "ffmpeg",
