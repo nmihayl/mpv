@@ -33,3 +33,5 @@ As this is made for mpv version 0.38 which adds the context menu on Windows, the
 - [clean-playlist](https://github.com/samhippo/mpv-scripts/blob/master/clean-playlist.lua) by [samhippo](https://github.com/samhippo)
 
 - [mpv-webm](https://github.com/ekisu/mpv-webm) by [ekisu](https://github.com/ekisu)
+
+- [SmartCopyPaste](https://github.com/Eisa01/mpv-scripts) by [Eisa01](https://github.com/Eisa01)
